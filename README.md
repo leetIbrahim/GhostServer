@@ -52,8 +52,8 @@ Players will learn about:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hidden-portal-ctf.git
-   cd hidden-portal-ctf
+   git clone https://github.com/your-username/GhostServer-CTF.git
+   cd GhostServer-ctf
    ```
 
 2. Install dependencies:
